@@ -1,6 +1,6 @@
-# Who's This DNS! 🕵️‍♂️🌐
+# Who's That DNS! 🕵️‍♂️🌐
 
-**Who's This DNS!** is a modern, dark-mode desktop utility built with Python and CustomTkinter to scan, verify, and verify public DNS servers.
+**Who's That DNS!** is a modern, dark-mode desktop utility built with Python and CustomTkinter to scan, verify, and verify public DNS servers.
 
 It doesn't just check if a server is online—it verifies if it actually resolves DNS queries.
 
