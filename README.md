@@ -4,7 +4,6 @@
 
 It doesn't just check if a server is online—it verifies if it actually resolves DNS queries.
 
-![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Who%27s+This+DNS+Screenshot)
 
 ## 🚀 Features
 
@@ -22,7 +21,7 @@ It doesn't just check if a server is online—it verifies if it actually resolve
 
 1.  **Clone the repo** (or download files):
     ```bash
-    git clone https://github.com/yourusername/whos-this-dns.git
+    git clone https://github.com/who4/who-s-the-DNS-.git
     cd whos-this-dns
     ```
 
