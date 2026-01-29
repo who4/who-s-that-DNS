@@ -21,7 +21,7 @@ It doesn't just check if a server is online—it verifies if it actually resolve
 
 1.  **Clone the repo** (or download files):
     ```bash
-    git clone https://github.com/who4/who-s-the-DNS-.git
+    git clone https://github.com/who4/who-s-that-DNS.git
     cd whos-this-dns
     ```
 
